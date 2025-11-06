@@ -8,7 +8,6 @@ public class Main {
         Cachorro c4 = new Cachorro("c4:  nick", "pinch");
 
         Cachorro c5 = new Cachorro();
-        Cachorro c6 = new Cachorro();
 
         c5.nome  = "joao";
         c5.idade = 7;
